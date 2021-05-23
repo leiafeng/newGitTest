@@ -20,7 +20,7 @@
   git commit -m "message"
 ```
 
-5. Push to Github
+5. Push to GitHub
 ```
   git push
 ```
