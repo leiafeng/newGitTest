@@ -29,3 +29,8 @@
 ```
   git push
 ```
+
+7. Pull from GitHub
+```
+  git pull
+```
