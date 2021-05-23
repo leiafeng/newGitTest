@@ -15,12 +15,17 @@
   git add <file>
 ```
 
-4. Commit with message
+4. Add all changes
+```
+  git add -A
+```
+
+5. Commit with message
 ```
   git commit -m "message"
 ```
 
-5. Push to GitHub
+6. Push to GitHub
 ```
   git push
 ```
